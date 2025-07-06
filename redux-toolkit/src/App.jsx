@@ -1,5 +1,5 @@
 
-// import './App.css'
+import "../src/tailwindcss.css"
 import LandingPage from "./app/components/landingPage"
 function App() {
 
